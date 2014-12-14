@@ -1,5 +1,3 @@
-iot_akvaryum_netduino
-=====================
 using System;
 using System.Text;
 using System.Net;
